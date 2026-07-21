@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HelloWorldd-AKS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d19a2a8387bd7546911d6a52f1c7c1c475d99fcc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c2038c08a2a0576e44c65a973277050c73ed09e")]
 [assembly: System.Reflection.AssemblyProductAttribute("HelloWorldd-AKS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HelloWorldd-AKS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
